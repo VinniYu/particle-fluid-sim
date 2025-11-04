@@ -1,4 +1,4 @@
-[[Computer Graphics Papers]]
+# Predictive-Corrective Incompressible SPH
 
 **Breakdown**
 
